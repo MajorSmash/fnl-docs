@@ -18,3 +18,4 @@ This repository is the single source of truth for the FNL support bot. All knowl
 - Changes pushed to this repo trigger automatic re-ingestion into the support bot's knowledge base
 - Rollback is `git revert` — no manual DB operations needed
 - All content is plain Markdown with YAML frontmatter
+
