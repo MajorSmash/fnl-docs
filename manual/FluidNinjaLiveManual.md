@@ -1,7 +1,7 @@
 ---
 doc_type: MANUAL
 title: FluidNinja Live Manual
-version_min: "1.0.0.0"
+version_min: "0.0.0.0"
 version_max: null
 ---
 # FLUIDNINJA LIVE 	MANUAL
