@@ -1,6 +1,6 @@
 # FluidNinja Live — Documentation
 
-Public knowledge base for [FluidNinja Live](https://fluidninja.com), an Unreal Engine plugin.
+Public knowledge base for [FluidNinja Live](https://www.fab.com/listings/80fcf53e-49f7-4635-a71c-ba81280c6618), an Unreal Engine plugin.
 
 This repository is the single source of truth for the FNL support bot. All knowledge enters the system here as Markdown files — the bot's database is derived from this repo and can always be reconstructed from it.
 
